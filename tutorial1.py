@@ -1,4 +1,4 @@
-from site-packages import Flask, render_template
+from Python import Flask, render_template
 
 app = Flask(__name__)
 
